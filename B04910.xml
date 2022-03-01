@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and wonderful news from France, communicated in a letter from Paris, to a gentleman in London, concerning the great designs of that monarch : as also an account of the answers of the embassadors at Frankfort, to the French embassador's propositions lately made there.</title>
+            <author>J. P., fl. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04910</idno>
+            <idno type="STC">Wing P53</idno>
+            <idno type="STC">ESTC R226216</idno>
+            <idno type="EEBO-CITATION">53981687</idno>
+            <idno type="OCLC">ocm 53981687</idno>
+            <idno type="VID">180292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180292)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and wonderful news from France, communicated in a letter from Paris, to a gentleman in London, concerning the great designs of that monarch : as also an account of the answers of the embassadors at Frankfort, to the French embassador's propositions lately made there.</title>
+                  <author>J. P., fl. 1682.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>First letter dated: Paris 8. Apr. 82. Signed: J.P.</note>
+                  <note>"The answer of the embassadors asembled at Franckfort, to the French embassador's propositions lately made there" dated: 9th of April, 1682.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180292:1" rendition="simple:additions"/>
+            <head>GREAT and WONDERFUL News from FRANCE, Communicated in a LETTER
+From <hi>PARIS,</hi> to a Gentleman in <hi>LONDON,</hi> Concerning the Great
+Deſigns of that <hi>Monarch:</hi> As alſo an Ac<g ref="char:EOLhyphen"/>count of the Anſwers of
+the Embaſſadors at <hi>FRANKFORT,</hi> to the <hi>French</hi>
+Embaſſador's Propoſitions lately made there.</head>
+            <p>WE having very lately received this following Letter from
+<hi>Paris,</hi> dated <hi>April</hi> 8th. and the News being ſomething
+extraordina<g ref="char:EOLhyphen"/>ry, we have without diminiſhing or adding any thing to it, given
+it you, as it was communicated to us; and as to the Ve<g ref="char:EOLhyphen"/>rity of it time will
+ſhortly ſhew; but we think it more than poſſible, yea, probable, that
+it is true, or at leaſt, the moſt part of it, and may revive the Hearts of
+the perſecuted <hi>Proteſtants</hi> of that and other Nations, with hopes,
+that upon the like Cauſes the like Effects may follow; and that in ano<g ref="char:EOLhyphen"/>ther
+Age, if not ſooner, by the Actings of this Monarch againſt the Church of
+<hi>Rome,</hi> that that great and flouriſhing Kingdom may more purely
+receive the Go<g ref="char:EOLhyphen"/>ſpel, and that a thorow Reformation may be there made, as it
+hapned in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> after the Death of our King <hi>Henry</hi> the 8th.
+But as to the Letter take it as it follows.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Received yours, <hi>&amp;c.</hi> and in return of your many
+  Favors, ſhall communicate freely to you the moſt eminent Occurrences I have
+  met with. You have heard, I doubt not, of the determinations of the Clergy of
+  <hi>France</hi> concerning the <hi>Regalia,</hi> and of the
+  <hi>Manifeſto</hi> of the Moſt Chriſtian King, concerning the Emperor,
+  and the Princes of <hi>Germany;</hi> but ſince that, I underſtand there
+  hath paſſed in the Cabal, or Cabinet Council of this King, what will
+  ſurprize all the Catholicks of <hi>Europe, viz.</hi> theſe Votes following,
+  Firſt, That His Moſt Chriſtian Majeſty is deſired with an hundred
+  thouſand Horſe and Foot, to make this next Campaign a Deſcent into
+  <hi>Italy.</hi> Secondly, To reduce <hi>Rome</hi> to his Obedience. Thirdly, To
+  declare himſelf Emperor of <hi>Rome.</hi> Fourthly, To remove the Pope to
+  <hi>Avignion</hi> in <hi>France,</hi> the place of their Reſidence formerly
+  for two hundred Years. This I have from the beſt hand, and therefore to be
+  credited. If His Moſt Chriſtian Majeſty ſhall purſue the Deſigns of
+  theſe Councellors, theſe Concluſi<g ref="char:EOLhyphen"/>ons will aſſuredly follow. Firſt,
+  If his moſt Chriſtian Majeſty ſhall declare him<g ref="char:EOLhyphen"/>ſelf Emperor of
+  <hi>Rome,</hi> the Emperor of <hi>Germany</hi> is but an Uſurper and
+  Intru<g ref="char:EOLhyphen"/>der upon his Dominions and Rights; and then you may gueſs what may be
+  the <pb n="2" facs="tcp:180292:2"/> Conſequence. Secondly, The Donation of
+  <hi>Conſtantine,</hi> the Conceſſions of <hi>Pepin</hi> and
+  <hi>Charlemain</hi> will be reſcinded and made <hi>null</hi> to his
+  Holineſs, and the moſt Chriſtian King may reſume thoſe Dominions by
+  them formerly granted to the Popes; and his Holineſs is anſwerable for the
+  mean Profits ſince they have been held and enjoyed by the Apoſtolick See.
+  Thirdly, The Nomination or Appointment of the Popes, will be by his moſt
+  Chriſtian Majeſty (being Empe<g ref="char:EOLhyphen"/>ror) as formerly they uſed to be by the
+  Emperor of <hi>Rome.</hi> Fourthly, All Gene<g ref="char:EOLhyphen"/>ral Councils will be called by
+  him, and no Article or Canon (tho' of Faith) ſhall therein paſs without his
+  Imperial <hi>Fiat.</hi> Fifthly, All matters concerning the Church, will be
+  ſolely in his Majeſty to declare and determine, ſo that there will be no
+  more need of a Pope, than of a Sun-Dial in the Grave. Sixthly, His Holineſs
+  being ſeated <hi>Avignion,</hi> will in a ſhort time, inſtead of
+  Chriſt's Vicar, (or Supream Head of his Church on Earth) become a
+  <hi>French</hi> Curate. And it will concern ſome ſeriouſly to conſider,
+  if that his moſt Chriſtian Majeſty may not be tempted (the better to
+  diſable all the Clergy of <hi>France</hi> to give any Oppoſition to ſo
+  vaſt Deſigns) to ſeize upon the Patrimony of the Gallick Church (which is
+  by ſome accounted a fourth part of <hi>France</hi>) as your <hi>Henry</hi>
+  8th. did in <hi>England.</hi> I ſhall give you no farther trouble; but I
+  muſt tell you, that in a ſhort time you may expect the greateſt Changes
+  and Revolutions that have happened in <hi>Europe</hi> for many hundreds of
+  Years. I am</p>
+                  <closer>
+                     <signed>Your Faithful Servant, <hi>J. P.</hi>
+                     </signed>
+                     <dateline>Paris 
+  <date>8. Apr. 82.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <head>The Anſwer of the Embaſſadors aſſembled at
+  <hi>Franckfort,</hi> to the <hi>French</hi> Em<g ref="char:EOLhyphen"/>baſſador's Propoſitions
+  lately made there.</head>
+                  <p>THE High and Illuſtrious Embaſſadors of the Princes of the
+  Empire met at this preſent Conference, by Order of his Imperial Majeſty, do
+  declare, that after they the ſaid Embaſſadors having duly deliberated on
+  the Propoſitions deli<g ref="char:EOLhyphen"/>vered them as aforeſaid, return this Anſwer;</p>
+                  <p>That His Majeſty of <hi>France</hi> his deſire of
+  conſerving the <hi>Nimeguen</hi> and <hi>Munſter</hi> Peace is very
+  acceptable to the aforeſaid Miniſters, and that they wiſh nothing more;
+  and that they will labor with all their Might the keeping thereof, hoping and
+  believing, that whatever places have been poſſeſſed by his Majeſty of
+  <hi>France</hi> (ſince the Treaty of <hi>Nimeguen</hi>) ſhall be reſtored
+  to its former Eſtate; and that due Satisfaction be made for Damages
+  ſuſtained by the aforeſaid Occupation; and that all Grievances that have
+  been complained of (either at <hi>Ratisbone</hi> or here) by any Princes,
+  Towns, or People, ſhall be redreſſed, and for the future forborn; and
+  that then any other Points inſerted in the <hi>French</hi> Propoſitions
+  ſhall be farther treated of between the aforeſaid Deputies and the
+  Embaſſador of <hi>France,</hi> with all readineſs, according to the Peace
+  concluded at <hi>Nimeguen, &amp;c.</hi> and ratified by the whole Empire
+  conformable to Juſtice and Equity; as alſo to the Power they have received
+  from their Principlas.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Signed the</hi> 9th. <hi>of</hi> April,
+ 1682.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. C.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
